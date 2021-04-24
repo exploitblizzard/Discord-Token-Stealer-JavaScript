@@ -1,4 +1,4 @@
-# DiscordConsoleJavaScript
+# Discord Token Stealer - JS
 Find the HAck in the "hackJS.js" file.
 
 Demonstration link : https://www.youtube.com/watch?v=yXsRuQm3ZZw
